@@ -1,0 +1,281 @@
+.banner {
+    background-color: #e5547323;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .content {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  
+  .text {
+    width: 50%;
+    padding-right: 40px;
+  }
+  
+  .image {
+    width: 50%;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 70px;
+    margin-bottom: 16px;
+    text-align: left;
+    display: inline-block;
+
+  }
+  
+  p {
+    font-size: 18px;
+    margin-bottom: 24px;
+    line-height: 30px;
+    text-align: left;
+    display: inline-block;
+    color: #27272799;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    border-radius: 8px;
+    background-color: #E55473;
+    color: white;
+    padding: 20px 40px;
+    font-size: 20px;
+    text-align: left;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+  }
+  
+  img {
+    position: relative;
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    object-fit: cover;
+  }
+.our-featured-flowers {
+    position: relative;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: Lato;
+    color: #272727;
+    text-align: center;
+    }
+    .h1-para {
+      position: relative;
+      font-size: 18px;
+      line-height: 30px;
+      font-family: Lato;
+      color: rgba(39, 39, 39, 0.6);
+      text-align: center;
+      display: inline-block;
+      width: 100%;
+      }
+      
+    .rectangle-div {
+      position: relative;
+      border-radius: 8px;
+      background-color: rgba(39, 39, 39, 0.05);
+      width: 50%;
+      height: 320px;
+      }
+      .group-child {
+        position: absolute;
+        top: 0px;
+        left: 142px;
+        width: 88px;
+        height: 88px;
+    }
+    .same-day-delivery {
+        position: absolute;
+        top: 112px;
+        left: 0px;
+        line-height: 35px;
+        font-weight: 600;
+    }
+    .group-container {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 372px;
+        height: 147px;
+    }
+    .group-item {
+        position: absolute;
+        top: 0px;
+        left: 114px;
+        width: 88px;
+        height: 88px;
+    }
+    .group-div {
+        position: absolute;
+        top: 0px;
+        left: 472px;
+        width: 316px;
+        height: 147px;
+    }
+    .group-inner {
+        position: absolute;
+        top: 0px;
+        left: 57px;
+        width: 88px;
+        height: 88px;
+    }
+    .group-parent1 {
+        position: absolute;
+        top: 0px;
+        left: 888px;
+        width: 202px;
+        height: 147px;
+    }
+    .group-parent {
+        position: relative;
+        width: 100%;
+        height: 147px;
+        text-align: center;
+        font-size: 24px;
+        color: rgba(39, 39, 39, 0.8);
+        font-family: Lato;
+    }
+ .rectangle-div1 {
+      position: relative;
+      border-radius: 8px;
+      background-color: rgba(229, 84, 115, 0.05);
+      width: 50%;
+      height: 420px;
+      }
+      .off {
+        color: #e55473;
+        }
+        .hot-deal-container {
+        position: relative;
+        font-size: 40px;
+        font-weight: 800;
+        font-family: Lato;
+        text-align: center;
+        color: #272727;
+        }
+        .it-is-a {
+          position: relative;
+          font-size: 18px;
+          line-height: 30px;
+          font-family: Lato;
+          color: rgba(39, 39, 39, 0.6);
+          text-align: center;
+          display: inline-block;
+          width: 100%;
+          }
+          .sign-up {
+            position: relative;
+            }
+            .sign-up-parent {
+            position: relative;
+            border-radius: 8px;
+            background-color: #e55473;
+            width:27%;
+            display: flex;
+            flex-direction: row;
+            padding: 20px 43px;
+            box-sizing: border-box;
+            align-items: flex-start;
+            justify-content: flex-start;
+            text-align: center;
+            font-size: 20px;
+            color: #fff;
+            font-family: Lato;
+            }
+            .instagram {
+              position: relative;
+              font-size: 40px;
+              font-weight: 800;
+              font-family: Lato;
+              color: #272727;
+              text-align: center;
+              }
+              .insta-para {
+                position: relative;
+                font-size: 18px;
+                line-height: 20px;
+                font-family: Lato;
+                color: rgba(39, 39, 39, 0.6);
+                text-align: center;
+                display: inline-block;
+                width: 100%;
+                }
+
+                {
+                  box-sizing: border-box;
+                }
+                
+                .column {
+                  float: left;
+                  width: 30%;
+                  padding: 4px;
+                }
+                
+                .rectangle-icon {
+                  position: relative;
+                  border-radius: 8px;
+                  width: 80%;
+                  height: 80%;
+                  object-fit: cover;
+                  }
+                  .container {
+                    position: relative;
+                    text-align: center;
+                    color: black;
+                  }
+                  .get-center {
+                    position: absolute;
+                    top: 50%;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                  }
+              .rectangle-div2 {
+                    position: absolute;
+
+                    background-color: #111010;
+                    width: 100%;
+                    height: 100%;
+                    }
+                  .shop {
+                      color: #fff;
+                      }
+                  .flowershop {
+                      position: flex;
+                      font-size: 48px;
+                      font-weight: 800;
+                      font-family: Lato;
+                      text-align: center;
+                      color: #e55473;
+                      }
+                  .footer-para {
+                        position: flex;
+                        font-size: 18px;
+                        line-height: 30px;
+                        font-family: Lato;
+                        color: rgba(255, 255, 255, 0.9);
+                        text-align: center;
+                        display: inline-block;
+                        width: 100%;
+                        }
+                  .flowershopcom-all-rights {
+                          position: flex;
+                          font-size: 16px;
+                          font-family: Lato;
+                          color: rgba(255, 255, 255, 0.4);
+                          text-align: center;
+                          } 
+                  
+                          
+                        
+                      
+                     
+          
+          
+                        
